@@ -1001,6 +1001,9 @@ figure.snip0015:hover figcaption::before {
 }
 
 /********************BLOG SECTION***************/
+#courses {
+    padding-top:80px;
+}
 #blog{
     background-color: #f6f6f6;
     overflow: hidden !important;
