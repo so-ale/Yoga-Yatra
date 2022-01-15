@@ -1095,7 +1095,7 @@ li.footer_list:hover{
 /******************************PROCESS PAGE START******************************/
 .header1_img{
     background: url(../img/fav.png) no-repeat bottom right;
-    /* background-attachment: fixed; */
+    background-position: bottom right;
 }
 .img{
     height: 100%;
@@ -1186,7 +1186,7 @@ li.footer_list:hover{
 /******************************PRICES PAGE START******************************/
 .header2_img{
     background: url(../img/fav.png) no-repeat;
-    background-attachment: fixed;
+    background-position: bottom right;
 }
 .price-item {
     background-color: #ffffff;
@@ -1323,7 +1323,7 @@ li.footer_list:hover{
 /******************************SCHEDULE PAGE START******************************/
 .header3_img{
     background: url(../img/fav.png) no-repeat;
-    background-attachment: fixed;
+    background-position: bottom right;
 }
 .gradient_color{
     background: -webkit-linear-gradient( 180deg,#cf43ca 30%, #8579e0 90%) !important;
@@ -1368,7 +1368,7 @@ li.footer_list:hover{
 /******************************GALLERY PAGE START******************************/
 .header4_img{
     background: url(../img/fav.png) no-repeat;
-    background-attachment: fixed;
+    background-position: bottom right;
 }
 
 /*filters*/
@@ -1521,7 +1521,7 @@ li.footer_list:hover{
 /*******************BLOG PAGE START*******************/
 .header5_img{
     background: url(../img/fav.png) no-repeat;
-    background-attachment: fixed;
+    background-position: bottom right;
 }
 .grey_bg{
     background-color: #f6f6f6;
@@ -2002,7 +2002,6 @@ span{
 /*******************DETAIL BLOG****************/
 .header6_img{
     background: url(../img/fav.png) no-repeat;
-    /* background-attachment: fixed; */
     background-position: bottom right;
 }
 .minimal_image .min-post .large_post div {
