@@ -1185,7 +1185,7 @@ li.footer_list:hover{
 
 /******************************PRICES PAGE START******************************/
 .header2_img{
-    background: url(../img/header_img2.png);
+    background: url(../img/fav.png) no-repeat;
     background-attachment: fixed;
 }
 .price-item {
@@ -1322,7 +1322,7 @@ li.footer_list:hover{
 
 /******************************SCHEDULE PAGE START******************************/
 .header3_img{
-    background: url(../img/schedule/header_img3.png);
+    background: url(../img/fav.png) no-repeat;
     background-attachment: fixed;
 }
 .gradient_color{
@@ -1367,7 +1367,7 @@ li.footer_list:hover{
 
 /******************************GALLERY PAGE START******************************/
 .header4_img{
-    background: url(../img/portfolio/header4_img.png);
+    background: url(../img/fav.png) no-repeat;
     background-attachment: fixed;
 }
 
@@ -1520,7 +1520,7 @@ li.footer_list:hover{
 
 /*******************BLOG PAGE START*******************/
 .header5_img{
-    background: url(../img/blog/header5-img.png);
+    background: url(../img/fav.png) no-repeat;
     background-attachment: fixed;
 }
 .grey_bg{
@@ -2134,7 +2134,7 @@ span{
 
 /************************ABOUT YOGA PAGE************************/
 .header8_img{
-    background: url(../img/about/header8_img.png);
+    background: url(../img/fav.png) no-repeat;
     background-attachment: fixed;
 }
 .right-0{
@@ -2158,7 +2158,7 @@ span{
 
 /***************************CONTACT US PAGE*****************/
 .header7_img{
-    background: url(../img/header7_img.jpg);
+    background: url(../img/fav.png) no-repeat;
     background-attachment: fixed;
 }
 .padding_button{
