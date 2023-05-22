@@ -1104,18 +1104,18 @@ li.footer_list a:hover{
 .overlay{
     background-image: -webkit-linear-gradient( 190deg, #cf43cade 30%, #8579e0e0 100%);
 }
-.header_tittle1{
+.header_title1{
     font-size: 72px;
     font-family: 'Raleway', sans-serif;
     color: rgb(255, 255, 255);
 }
-.header_tittle2{
+.header_title2{
     font-size: 24px;
     font-family: 'OpenSans' , sans-serif;
     color: rgb(255, 255, 255);
     line-height: 2;
 }
-.header_tittle{
+.header_title{
     text-align: center;
     padding-top: 13%;
     padding-bottom: 5.5%;
@@ -2271,14 +2271,14 @@ span{
     .process_text {
         padding: 25px;
     }
-    .header_tittle {
+    .header_title {
         text-align: center;
         padding-top: 17%;
     }
-    .header_tittle1 {
+    .header_title1 {
         font-size: 46px;
     }
-    .header_tittle2 {
+    .header_title2 {
         font-size: 17px;
     }
     .margin_bottom_price{
@@ -2668,10 +2668,10 @@ span{
     .caption_center {
         margin-top: 28px;
     }
-    .header_tittle2 {
+    .header_title2 {
         font-size: 12px;
     }
-    .header_tittle1 {
+    .header_title1 {
         font-size: 35px;
         margin: 10px;
     }
